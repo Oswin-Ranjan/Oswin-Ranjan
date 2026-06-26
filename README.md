@@ -1,17 +1,280 @@
-# 💫 About Me:
-I’m a sophomore pursuing B.Tech in Computer Science and Engineering (Artificial Intelligence & Machine Learning), passionate about exploring how intelligent systems can solve real-world problems. My curiosity for AI started with understanding how machines learn patterns and has since grown into a deep interest in areas like machine learning, agentic AI, and deep learning. I’m currently strengthening my foundations in Python, data structures, algorithms, and neural networks, while exploring frameworks like TensorFlow, PyTorch, and scikit-learn.<br><br>🤝 Open to: Internships, research opportunities, and collaborative AI projects
+<div align="center">
 
+# 👋 Hey, I'm **Oswin Ranjan**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oswin-ranjan-854bb030b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranjanoswin@gmail.com) 
+### AI Engineer • Backend Developer • Open Source Enthusiast
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Oswin-Ranjan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+```python
+class OswinRanjan:
+
+    role = "AI Engineer • Backend Developer • Open Source Enthusiast"
+
+    education = "B.Tech CSE (AI & ML)"
+
+    interests = [
+        "Machine Learning",
+        "Deep Learning",
+        "Backend Engineering",
+        "Natural Language Processing",
+        "Agentic AI",
+        "Open Source"
+    ]
+
+    currently_learning = [
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker",
+        "System Design",
+        "GitHub Actions",
+        "MLOps"
+    ]
+
+    goal = (
+        "Build intelligent systems that solve "
+        "real-world problems at scale."
+    )
+
+```
+
+---
+
+# 💡 What Drives Me
+
+> I enjoy building projects that combine **Artificial Intelligence**, **Backend Engineering**, and **Software Development** to solve practical problems. Every project is an opportunity to learn something new and create something impactful.
+
+---
+
+# ⚙️ Tech Stack
+
+## 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql"/>
+
+</p>
+
+## 🚀 Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,firebase"/>
+
+</p>
+
+## 🤖 Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+Also experienced with
+
+* Scikit-Learn
+* NumPy
+* Pandas
+* Matplotlib
+* NLTK
+* Word2Vec
+* TF-IDF
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,idea,pycharm,androidstudio,vscode"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 💊 MediMinder
+
+**Android-based Medication Management System**
+
+An Android application designed to help users—especially elderly patients—manage medications through intelligent reminders and adherence tracking.
+
+### ✨ Highlights
+
+* 🔔 Smart recurring reminders
+* 📅 Daily / Weekly / Monthly schedules
+* 📊 Adherence analytics dashboard
+* ⏰ AlarmManager integration
+* 📱 Material Design UI
+
+### 🛠 Tech Stack
+
+`Java` `Android Studio`
+
+</td>
+
+<td width="50%">
+
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+
+<br><br>
+
+⭐ Focus Areas
+
+* Android Development
+* Mobile UI/UX
+* Notifications
+* Local Storage
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 📄 NLP Document Summarizer
+
+Traditional NLP-powered document summarization system capable of extracting meaningful summaries from lengthy text.
+
+### ✨ Highlights
+
+* 📚 TF-IDF Sentence Ranking
+* 🧠 Word2Vec Semantic Similarity
+* 📝 NLTK Preprocessing
+* 📊 ROUGE Evaluation
+* ⚡ Lightweight Pipeline
+
+### 🛠 Tech Stack
+
+`Python` `NLTK` `Scikit-Learn` `NumPy`
+
+</td>
+
+<td width="50%">
+
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+
+<br><br>
+
+⭐ Focus Areas
+
+* NLP
+
+* Text Processing
+
+* Information Retrieval
+
+* Machine Learning
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚡ Tech Snapshot
+
+| Category        | Technologies                                                     |
+| --------------- | ---------------------------------------------------------------- |
+| 👨‍💻 Languages | Java • Python • C • SQL                                          |
+| 🤖 AI/ML        | TensorFlow • PyTorch • Scikit-Learn • Pandas • NumPy • NLTK      |
+| ⚙ Backend       | Spring Boot • FastAPI • REST APIs                                |
+| 🗄 Database     | MySQL • Firebase • PostgreSQL *(Learning)*                       |
+| 🛠 Tools        | Git • GitHub • Docker • IntelliJ IDEA • Android Studio • PyCharm |
+| ☁ Exploring     | GitHub Actions • MLOps • System Design                           |
+
+---
+
+# 🎯 Looking For
+
+* 🤝 Open Source Collaborations
+* 💼 Software Engineering Internships
+* 🤖 AI / ML Internships
+* 🔬 Research Opportunities
+* 🌍 International Internship Programs
+* 🚀 Exciting Engineering Challenges
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Oswin-Ranjan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Oswin-Ranjan&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oswin-Ranjan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Oswin-Ranjan&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:ranjanoswin@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/oswin-ranjan-854bb030b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Favourite Quote
+
+<div align="center">
+
+**"Stay curious. Build consistently. Let your work speak louder than your words."**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+*From writing my first lines of code to building AI-powered applications, every project has been another step in my learning journey. I'm always excited to collaborate, contribute to open source, and tackle challenging problems.*
+
+---
+
+⭐ **If you enjoyed exploring my work, consider starring a repository or connecting with me!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=120&section=footer"/>
+
+</div>
